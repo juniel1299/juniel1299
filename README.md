@@ -5,12 +5,9 @@
   # WONJUN JANG
  ### Hello I'm WONJUN 
 SNS <a href="https://www.instagram.com/wonjun_gg/">
-  <img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/>
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/></a>
 <a href="https://problem-child.tistory.com/">
-<img src="https://img.shields.io/badge/TIBLOG-Yellow?style=social&logo=TISTORY&LogoColor=09B3AF"/>
-                                                                                                </a>
-
-<a href="https://blog.naver.com/juniel1299">                                                                            
-                    <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/>
-                                                                                                                    </a>
+<img src="https://img.shields.io/badge/TIBLOG-Yellow?style=social&logo=TISTORY&LogoColor=09B3AF"/></a>
+<a href="https://blog.naver.com/juniel1299">
+<img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/></a>
+                                                                                                           
