@@ -4,10 +4,10 @@
 
   # WONJUN JANG
  ### Hello I'm WONJUN 
-SNS <a href="https://www.instagram.com/wonjun_gg/alpox.dev">
+SNS <a href="https://www.instagram.com/wonjun_gg/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/>
   </a>
-<a href="https://problem-child.tistory.com/>
+<a href="https://problem-child.tistory.com/">
 <img src="https://img.shields.io/badge/TIBLOG-Yellow?style=social&logo=TISTORY&LogoColor=09B3AF"/>
                                                                                                 </a>
 
