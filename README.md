@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20&fontSize=100&&animation=blink)
 
   # WONJUN JANG
- <center> ### Hello I'm WONJUN </center> 
+ <center> ### Hello I'm WONJUN </center> <br>
 <center>SNS <a href="https://www.instagram.com/wonjun_gg/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/></a>
 <a href="https://problem-child.tistory.com/">
