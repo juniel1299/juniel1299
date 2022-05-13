@@ -17,5 +17,4 @@
 <a href="https://blog.naver.com/juniel1299">
 <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/></a></p>
                                                                                                            
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={juniel1299})](https://solved.ac/{juniel1299})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juniel1299)](https://solved.ac/juniel1299)
