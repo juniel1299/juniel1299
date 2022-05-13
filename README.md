@@ -6,7 +6,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungs5440&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngs5440&show_icons=true&theme=tokyonight)
   
   
  <p align="center"> Hello I'm WONJUN , I live in Seoul in Korea </p> <br>
