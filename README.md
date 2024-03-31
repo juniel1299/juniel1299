@@ -1,6 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20&fontSize=100&&animation=blink)
 
   # WONJUN JANG
   
@@ -8,6 +7,8 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
+
   
  <p align="center"> Hello I'm WONJUN , I live in Seoul in Korea </p> <br>
 <p align="center">SNS <a href="https://www.instagram.com/wonjun_gg/">
