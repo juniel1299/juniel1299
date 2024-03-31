@@ -3,7 +3,7 @@
  # WONJUN JANG
 
   
- <p align="center"> Hello I'm WONJUN , I live in Seoul in Korea </p> <br>  
+ <p align="center"> Hello I'm WONJUN , I live in Seoul in Korea , I'm 24</p> <br>  
  <p align="center"> I graduated from the College of Engineering, Department of Electrical Engineering at Myongji University in February 2024. </p>
 
 <p align="center"> Tech Stack </p>
