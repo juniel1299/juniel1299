@@ -27,10 +27,20 @@
 <p align="center"> tool </p>
 <p align="center">
  
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
+
+</p>
+
+<p align="center">
+ 
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/> 
+
+</p>
+
+<p align="center">
+ 
 <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
@@ -45,11 +55,19 @@
 <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/></a></p>
 </p>                                                                                                        
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juniel1299)](https://solved.ac/juniel1299)
-  
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+   </div>
+   <div align="center">
+    
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
+   </div>
+   <div align="center">
+    
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
+  </div>
+  <div align="center">
+   
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juniel1299)](https://solved.ac/juniel1299)
+  </div>
