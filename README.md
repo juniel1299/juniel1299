@@ -5,16 +5,35 @@
   
  <p align="center"> Hello I'm WONJUN , I live in Seoul in Korea </p> <br>  
 
-<p align="center"> Tech
+<p align="center"> Tech Stack </p>
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center"> Study </p>
+<p align="center">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+</p>
+
+
 
  
-<p align="center">SNS <a href="https://www.instagram.com/wonjun_gg/">  
-  <img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/></a>
+<p align="center">SNS</p>
+<p align="center">
+ <a href="https://www.instagram.com/wonjun_gg/">  
+<img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/></a>
 <a href="https://problem-child.tistory.com/">
 <img src="https://img.shields.io/badge/TIBLOG-Yellow?style=social&logo=TISTORY&LogoColor=09B3AF"/></a>
 <a href="https://blog.naver.com/juniel1299">
 <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/></a></p>
-                                                                                                           
+</p>                                                                                                        
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
