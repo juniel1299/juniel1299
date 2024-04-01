@@ -75,6 +75,20 @@
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
   </div>
   <div align="center">
-   
+
+
+![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+<a href="https://opgc.me/#/users/5-23" target="_blank"><img src="https://api.opgc.me/githubs/users/5-23/tag/?theme=basic" /></a>   
+
+</div>
+
+   <div align="center">
+    
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juniel1299)](https://solved.ac/juniel1299)
+  
   </div>
