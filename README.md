@@ -82,8 +82,8 @@
 </div>
 
 <div align="center">
-
-<a href="https://opgc.me/#/users/juniel1299" target="_blank"><img src="https://api.opgc.me/githubs/users/juniel1299/tag/?theme=basic" /></a>   
+ 
+<a href="https://opgc.me/#/users/juniel1299" target="_blank"><img src="https://api.opgc.me/githubs/users/juniel1299/tag/?theme=basic" /></a>
 
 </div>
 
