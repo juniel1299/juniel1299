@@ -89,6 +89,8 @@
 
    <div align="center">
     
+   ![snake gif](https://github.com/juniel1299/juniel1299/blob/output/github-contribution-grid-snake.svg)
+  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juniel1299)](https://solved.ac/juniel1299)
   
   </div>
