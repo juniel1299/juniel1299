@@ -80,6 +80,8 @@
 
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
 
+![juniel1299 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=juniel1299)
+![juniel1299 github-trophies](https://stats.dooboo.io/api/github-trophies?login=juniel1299)
 </div>
 
 <div align="center">
