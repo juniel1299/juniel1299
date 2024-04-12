@@ -6,7 +6,7 @@
  <p align="center"> Hello I'm WONJUN , I live in Seoul in Korea , I'm 24</p> <br>  
  <p align="center"> I graduated from the College of Engineering, Department of Electrical Engineering at Myongji University in February 2024. </p>
 
-<p align="center"> 💻 Tech Stack </p>
+<p align="center"> 💻 <strong> Tech Stack </strong> </p>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <br>
@@ -16,14 +16,14 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="center"> 🍿 Framework </p>
+<p align="center"> 🍿 <strong> Framework </strong> </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
 
-<p align="center"> 📖 Study </p>
+<p align="center"> 📖 <strong> Study </strong> </p>
 <p align="center">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -31,7 +31,7 @@
 </p>
 
 
-<p align="center"> 🪛 tool </p>
+<p align="center"> 🪛 <strong> tool </strong> </p>
 <p align="center">
  
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
  
-<p align="center"> 💌 SNS</p>
+<p align="center"> 💌 <strong> SNS </strong> </p>
 <p align="center">
  <a href="https://www.instagram.com/wonjun_gg/">  
 <img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/></a>
