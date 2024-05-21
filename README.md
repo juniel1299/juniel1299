@@ -112,8 +112,6 @@
  
 <h3> 💌  SNS  </h3>
 <div>
- <a href="https://www.instagram.com/wonjun_gg/">  
-<img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/></a>
  <div>
  <a href="https://problem-child.tistory.com/">
  <img src="https://img.shields.io/badge/TIBLOG-Yellow?style=social&logo=TISTORY&LogoColor=09B3AF"/></a> <span> Engineering Blog </span>
@@ -128,12 +126,18 @@
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
  </div>
+ 
 </div>                                                                                                        
+<hr>
 
 <div>
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juniel1299)](https://solved.ac/juniel1299)
+
    </div>
+<hr>
    
    <div>
     
@@ -153,10 +157,3 @@
 
   ![snake gif](https://github.com/juniel1299/juniel1299/blob/output/github-contribution-grid-snake.svg)
 
-   <div>
-    
-
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juniel1299)](https://solved.ac/juniel1299)
-  
-  </div>
