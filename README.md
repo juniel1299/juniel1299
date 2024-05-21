@@ -6,30 +6,29 @@
  <h2 align="center"> Hello I'm WONJUN , I live in Seoul in Korea , I'm 24</h2> <br>  
  <p align="center"> I graduated from <b> the College of Engineering </b>, Department of Electrical Engineering at <b> Myongji University </b> in February 2024. </p>
 
-<h3 align="center">  💻Tech Stack </h3>
-
-<p align="center">
+<h3>  💻Tech Stack </h3>
+<div>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+</div>
 
-<h3 align="center"> 🍿  Framework </h3>
+<h3> 🍿  Framework </h3>
 
-<p align="center">
+<div>
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
+</div>
 
-<h3 align="center"> 📖 Study </h3>
-<p align="center">
+<h3> 📖 Study </h3>
+<div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-</p>
+</div>
 
 
 <h3 align="center"> 🪛  tool </h3>
