@@ -124,9 +124,10 @@
 <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/></a> <span> etc Blog</span>
  </div>
  <div>
-
+<a href="mailto:﻿"youngs5440@gmail.com">
+ 
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
+</a>
  </div>
 </div>                                                                                                        
 
