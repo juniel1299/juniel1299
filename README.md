@@ -67,32 +67,22 @@
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
    </div>
+   
    <div>
     
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
    </div>
-   <div>
-    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
-  </div>
-
+   
 
   
   <div>
    
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
 
-![juniel1299 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=juniel1299)
-![juniel1299 github-trophies](https://stats.dooboo.io/api/github-trophies?login=juniel1299)
 </div>
 
-<div>
- 
-<a href="https://opgc.me/#/users/juniel1299" target="_blank"><img src="https://api.opgc.me/githubs/users/juniel1299/tag/?theme=basic" /></a>
-
-</div>
 
   ![snake gif](https://github.com/juniel1299/juniel1299/blob/output/github-contribution-grid-snake.svg)
 
