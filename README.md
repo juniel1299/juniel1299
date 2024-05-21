@@ -86,7 +86,7 @@
 <h2> IDE Tool</h2>
 <div>
 
- 
+ ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
@@ -137,9 +137,9 @@
    
    <div>
     
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
-   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
+  
    </div>
    
 
