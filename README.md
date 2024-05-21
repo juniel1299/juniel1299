@@ -124,6 +124,7 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=youngs5440@gmail.com" target="_blank">
  
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ 이메일 보내기
 </a>
  </div>
  
