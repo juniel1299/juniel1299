@@ -31,62 +31,64 @@
 </div>
 
 
-<h3 align="center"> 🪛  tool </h3>
-<p align="center">
+<h3> 🪛  tool </h3>
+<div>
  
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
 
-</p>
+</div>
 
-<p align="center">
- 
+<div>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/> 
+</div>
 
-</p>
-
-<p align="center">
+<div>
  
 <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</p>
+</div>
  
-<h3 align="center"> 💌  SNS  </h3>
-<p align="center">
+<h3> 💌  SNS  </h3>
+<div>
  <a href="https://www.instagram.com/wonjun_gg/">  
 <img src="https://img.shields.io/badge/Instagram-pink?style=social&logo=INSTAGRAM&logoColor=E4405F"/></a>
- <p align="center">
+ <div>
  <a href="https://problem-child.tistory.com/">
  <img src="https://img.shields.io/badge/TIBLOG-Yellow?style=social&logo=TISTORY&LogoColor=09B3AF"/></a> <span> Engineering Blog </span>
- </p>
- <p align="center">
+ </div>
+ <div>
  <a href="https://blog.naver.com/juniel1299">
 <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/></a> <span> etc Blog</span>
- </p>
-</p>                                                                                                        
-<div align="center">
+ </div>
+</div>                                                                                                        
+<div>
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
    </div>
-   <div align="center">
+   <div>
     
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
+   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
    </div>
-   <div align="center">
+   <div>
     
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact)
   </div>
-  <div align="center">
 
 
+  
+  <div>
+   
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
 
 ![juniel1299 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=juniel1299)
 ![juniel1299 github-trophies](https://stats.dooboo.io/api/github-trophies?login=juniel1299)
 </div>
 
-<div align="center">
+<div>
  
 <a href="https://opgc.me/#/users/juniel1299" target="_blank"><img src="https://api.opgc.me/githubs/users/juniel1299/tag/?theme=basic" /></a>
 
@@ -94,7 +96,7 @@
 
   ![snake gif](https://github.com/juniel1299/juniel1299/blob/output/github-contribution-grid-snake.svg)
 
-   <div align="center">
+   <div>
     
 
   
