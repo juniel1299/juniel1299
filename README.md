@@ -120,12 +120,11 @@
  <a href="https://blog.naver.com/juniel1299">
 <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/></a> <span> etc Blog</span>
  </div>
- <div>
+ <div> 
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=youngs5440@gmail.com" target="_blank">
  
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
- 이메일 보내기
+이메일 전송
 </a>
  </div>
  
