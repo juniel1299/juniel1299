@@ -152,7 +152,7 @@
 
   <div>
    
-![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
+![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=000000&color=3366ff&line=3366ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
