@@ -143,13 +143,13 @@
    
    <div>
     
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact) 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=holi)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=gruvbox">
   
    </div>
    
 
-  
   <div>
    
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
