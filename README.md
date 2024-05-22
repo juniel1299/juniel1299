@@ -121,7 +121,7 @@
  </div>
  <div> 
   이메일 연락
-<a href="mailto:kkhw1202@gmail.com">send email
+<a href="mailto:kkhw1202@gmail.com">
  
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
