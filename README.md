@@ -33,7 +33,7 @@
  
 </div>
 
-<h2> 💻 ETC Stack</h2>
+<h2> 💻 ETC </h2>
 <div>
 
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
