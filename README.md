@@ -122,10 +122,12 @@
  </div>
  <div> 
   이메일 연락
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=youngs5440@gmail.com" target="_blank">
+<a href="mailto:kkhw1202@gmail.com">send email
  
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 </a>
+
  </div>
  
 </div>                                                                                                        
