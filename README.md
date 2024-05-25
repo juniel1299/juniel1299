@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&color=timeGradient&text=Hello%20Github!&desc=juniel1299's%20&reversal=false&section=header&animation=fadeIn)
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=timeGradient&text=Hello%20Github&reversal=false&section=header&animation=fadeIn&desc=juniel1299's)
+
+</div>
+
 
 # WONJUN JANG
 
