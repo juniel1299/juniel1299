@@ -63,11 +63,11 @@
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 
-## 💌 SNS
+## 💌 SNS & Contact me
 [![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/) Engineering Blog
 [![NaverBlog](https://img.shields.io/badge/NaverBlog-white?style=for-the-badge&logo=Naver&logoColor=03C75A)](https://blog.naver.com/juniel1299) etc Blog
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngs5440@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngs5440@gmail.com) 
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://juniel1299.notion.site/9fdf129eb92c41d7958272214c3fcddb?pvs=74) 
 
 ---
 
