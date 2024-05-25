@@ -57,22 +57,12 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
+
 ## 💌 SNS
+[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/) Engineering Blog
+[![NaverBlog](https://img.shields.io/badge/NaverBlog-white?style=for-the-badge&logo=Naver&logoColor=03C75A)](https://blog.naver.com/juniel1299) etc Blog
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngs5440@gmail.com)
 
-<a href="https://problem-child.tistory.com/">
-  <img src="https://img.shields.io/badge/TIBLOG-Yellow?style=social&logo=TISTORY&LogoColor=09B3AF"/>
-</a> 
-<span>Engineering Blog</span>
-
-<a href="https://blog.naver.com/juniel1299">
-  <img src="https://img.shields.io/badge/NaverBlog-Green?style=social&logo=Naver&LogoColor=03C75A"/>
-</a>
-<span>etc Blog</span>
-
-<a href="mailto:youngs5440@gmail.com">
-  
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
 
 ---
 
