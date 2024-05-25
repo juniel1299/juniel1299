@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=cylinder&text=Juniel1299!)](https://capsule-render.vercel.app/api?type=rect&height=300&color=timeGradient&text=Hello%20Github!&desc=juniel1299's%20&reversal=false&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=timeGradient&text=Hello%20Github!&desc=juniel1299's%20&reversal=false&section=header&animation=fadeIn)
 
 # WONJUN JANG
 
