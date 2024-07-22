@@ -12,6 +12,15 @@
   I graduated from <b>the College of Engineering</b>, Department of Electrical Engineering at <b>Myongji University</b> in February 2024.
 </p>
 
+<br>
+
+
+<p align="center"> 
+
+현재 SK Hynix에서 프로젝트를 진행 중 입니다.
+
+</p>
+
 ## 💻 Tech Stack
 
 ### Frontend
