@@ -8,7 +8,7 @@
 # WONJUN JANG
 
 <p align="center">
-  Hello I'm WONJUN, I live in Seoul in Korea, I'm 24<br>
+  Hello I'm WONJUN, I live in Seoul in Korea, I'm 25<br>
   I graduated from <b>the College of Engineering</b>, Department of Electrical Engineering at <b>Myongji University</b> in February 2024.
 </p>
 
@@ -16,9 +16,9 @@
 
 
 <p align="center"> 
-
-현재 SK Hynix에서 프로젝트를 진행 중 입니다.
-
+  <a href=https://juniel1299.github.io/> 자기소개 및 이력서 </a>
+  <br>
+  프로젝트 미진행 중 
 </p>
 
 ## 💻 Tech Stack
