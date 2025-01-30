@@ -16,7 +16,7 @@
 
 
 <p align="center"> 
-  <a href='https://juniel1299.github.io/' target='_blank'> 자기소개 및 이력서 </a>
+  <a href="https://juniel1299.github.io/" target="_blank"> 자기소개 및 이력서 </a>
   <br>
   프로젝트 미진행 중 
 </p>
