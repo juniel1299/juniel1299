@@ -18,7 +18,7 @@
 <p align="center"> 
   <a href="https://juniel1299.github.io/" target="_blank"> 자기소개 및 이력서 </a>
   <br>
-  프로젝트 미진행 중 
+  2025/02/11 기준 프로젝트 미진행 중 ( 주로 SK Hynix 프로젝트 진행 ) 
 </p>
 
 ## 💻 Tech Stack
