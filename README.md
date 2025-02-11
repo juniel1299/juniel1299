@@ -70,10 +70,8 @@
 
 
 ## 💌 SNS & Contact me
-[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/) Engineering Blog
+[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngs5440@gmail.com) 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://juniel1299.notion.site/9fdf129eb92c41d7958272214c3fcddb?pvs=74) 
-
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
