@@ -78,10 +78,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniel1299&layout=compact&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniel1299&show_icons=true&theme=gruvbox">
-</p>
+[![GitHub Stats](https://github-stats-transparent.vercel.app/api?username=juniel1299&show_icons=true&hide_border=true&theme=transparent&token=ACCESS_TOKEN)]
+
 
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=000000&color=3366ff&line=A0153E&point=FF204E&area=true&hide_border=true)
 
