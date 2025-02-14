@@ -78,8 +78,8 @@
 
 ---
 
-[![GitHub Stats](https://github-stats-transparent.vercel.app/api?username=juniel1299&show_icons=true&hide_border=true&theme=transparent&token=ACCESS_TOKEN)]
-
+![](https://github.com/juniel1299/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/juniel1299/github-stats-transparent/blob/output/generated/overview.svg)
 
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=juniel1299&bg_color=000000&color=3366ff&line=A0153E&point=FF204E&area=true&hide_border=true)
 
