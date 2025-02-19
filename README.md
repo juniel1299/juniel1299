@@ -42,10 +42,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-### ETC
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+### More Skills
+💡 jQuery, Bootstrap, Python, C, NumPy, OpenCV, Octave, Figma, Notion, Apache Tomcat, Arduino
 ## 💌 SNS & Contact me
 [![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngs5440@gmail.com) 
