@@ -21,6 +21,9 @@
   2025/02/11 기준 프로젝트 미진행 중 ( 주로 SK Hynix 프로젝트 진행 ) 
 </p>
 
+[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngs5440@gmail.com) 
+
 ## 💻 Tech Stack
 
 ### Frontend
@@ -44,9 +47,7 @@
 
 ### More Skills
 💡 jQuery, Bootstrap, Python, C, NumPy, OpenCV, Octave, Figma, Notion, Apache Tomcat, Arduino
-## 💌 SNS & Contact me
-[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngs5440@gmail.com) 
+
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
