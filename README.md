@@ -8,8 +8,7 @@
 # WONJUN JANG
 
 <p align="center">
-  Hello I'm WONJUN, I live in Seoul in Korea, I'm 25<br>
-  I graduated from <b>the College of Engineering</b>, Department of Electrical Engineering at <b>Myongji University</b> in February 2024.
+
 </p>
 
 <br>
