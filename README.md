@@ -48,6 +48,9 @@
 ### More Skills
 💡 jQuery, Bootstrap, Python, C, NumPy, OpenCV, Octave, Figma, Notion, Apache Tomcat, Arduino
 
+### Study
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuniel1299&count_bg=%23E72727&title_bg=%233D88DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
