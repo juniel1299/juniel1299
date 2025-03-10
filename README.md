@@ -64,4 +64,3 @@
 
 ![snake gif](https://github.com/juniel1299/juniel1299/blob/output/github-contribution-grid-snake.svg)
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
