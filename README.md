@@ -17,9 +17,8 @@
 <p align="center"> 
   <a href="https://juniel1299.github.io/" target="_blank"> 자기소개 및 이력서 </a>
   <br>
-  현재 SK hynix 프로젝트 진행 예정 ( 2025/03/24 ~ ing)  
+  현재 SK hynix 프로젝트 진행 예정 ( 2025/04/01 ~ ing)  
   <br>
-  사이드 프로젝트 연락 환영.
 </p>
 
 [![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/)
