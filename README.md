@@ -47,7 +47,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ### More Skills
-💡 jQuery, Bootstrap, Python, C, NumPy, OpenCV, Octave, Figma, Notion, Arduino
+💡 Python, C, NumPy, OpenCV, Octave, Figma, Notion, Arduino
 
 ### Study
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
