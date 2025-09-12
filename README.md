@@ -16,6 +16,7 @@
 
 <p align="center"> 
 <!--    <a href="https://juniel1299.github.io/" target="_blank"> 자기소개 및 이력서 </a> -->
+  SK Hynix Opex EQ 프로젝트 (2024/07/08 ~ 2025/01/15)
   <br>
   현재 SK hynix 프로젝트 진행 ( 2025/04/01 ~ ing)  
   <br>
